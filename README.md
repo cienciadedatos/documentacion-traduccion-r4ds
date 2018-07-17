@@ -98,6 +98,6 @@ not_cancelled <- flights %>%
   
   __traducción variable + datos__
 ```r
-no_cancelados <- flights %>% 
+no_cancelados <- vuelos %>% 
   filter(!is.na(atraso_salida), !is.na(atraso_llegada))
   ```
