@@ -1,5 +1,8 @@
 # Orientaciones para la traducción
 
+## 0. Organización del trabajo
+Cada capítulo tiene asignada una persona a cargo de la traducción, que es responsable de que esta se lleve a cabo. La forma de organizarse queda a criterio de cada quien: se puede realizar de forma individual, buscar colaboradores o realizar una actividad abierta de traducción (por ejemplo, a través de RLadies o el grupo de Usarios de R (RUG) local. 
+
 ## I. Aspectos a tener en cuenta para la traducción del texto
 
 __1. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que
@@ -53,13 +56,15 @@ Hay términos técnicos que será necesario traducir y otros que no. El criterio
 | assignment operator | operador de asignación |
 | console | consola |
 | dataset | conjunto de datos |
+| ... | ... |
 
 
 #### Términos técnicos que se mantienen
 
-| términos que no se traducen |
+| no traducir |
 | ----------------------------|
 | el output |
+| ... |
 
 ## III. Traducción del código: 
 
