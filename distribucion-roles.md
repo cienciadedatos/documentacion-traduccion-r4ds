@@ -13,7 +13,7 @@
 | 7. Exploratory Data Analysis | Pamela Matías (@pamelinni) |
 | 8. Workflow: Projects | Pamela Matías (@pamelinni) |
 | 9. Wrangle: Introduction | Yanina Bellini (@yabellini) |
-| 10. Tibbles |  |
+| 10. Tibbles | Elio Campitelli @d_olivaw |
 | 11. Data Import |  |
 | 12. Tidy Data | Pacha (@pachamaltese) |
 | 13. Relational Data with dplyr | Pacha (@pachamaltese) |
