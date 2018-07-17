@@ -12,19 +12,19 @@
 | 6. Workflow: scripts | Marcela Alfaro (@malfaro2) |
 | 7. Exploratory Data Analysis | Pamela Matías (@pamelinni) |
 | 8. Workflow: Projects | Pamela Matías (@pamelinni) |
-| 9. Wrangle: Introduction |
+| 9. Wrangle: Introduction | Yanina Bellini (@yabellini) |
 | 10. Tibbles | Pacha (@pachamaltese) |
 | 11. Data Import | Pacha (@pachamaltese) |
 | 12. Tidy Data | Pacha (@pachamaltese) |
 | 13. Relational Data with dplyr | Pacha (@pachamaltese) |
 | 14. Strings | Riva Quiroga (@rivaquiroga) |
-| 15. Factors |
-| 16. Date and times |
-| 17. Program: introduction |
+| 15. Factors | Melina Vidoni (@melvidoni |
+| 16. Date and times | Melina Vidoni (@melvidoni |
+| 17. Program: introduction | Yanina Bellini (@yabellini) |
 | 18. Pipes | Roxana N Villafañe (@data-datum) |
 | 19. Functions | Roxana N Villafañe (@data-datum)|
 | 20. Vectors | Patricia Loto (@patriloto) |
-| 21. Iteration |
+| 21. Iteration | Yanina Bellini (@yabellini) |
 | 22. Model: introduction | Yanina Bellini (@yabellini) |
 | 23. Model basics | Joshua Kunst (@jbkunst) |
 | 24. Model building | Joshua Kunst (@jbkunst) |
