@@ -2,8 +2,8 @@
 
 ### Traducción y revisión de capítulos
 
-| Capítulo | Reponsable traducción |
-|----------|-----------------------|
+| Capítulo | Reponsable traducción | Fecha estimada primera versión |
+|----------|-----------------------| -----------------------|
 | 1. Introduction | Riva Quiroga (@rivaquiroga) |
 | 2. Explore: introduction | Pacha (@pachamaltese) |
 | 3. Data visualisation | Florencia D'Andrea (@flor14) |
