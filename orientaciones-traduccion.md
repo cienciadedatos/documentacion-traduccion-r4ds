@@ -79,9 +79,13 @@ Traducción:
 > * Escoger observaciones según sus valores (`filter()`  — del inglés _filtrar_).
 > * Reordenar las filas (`arrange()`  — del inglés _organizar_).
 
-__2. Datos.__ Este proyecto tiene asociado el desarrollo de un paquete con la traducción de todos los datos. Por lo tanto, es necesario instalarlo para el proceso de traducción. Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos
+__2. Datos.__ Este proyecto tiene asociado el desarrollo de un paquete con la traducción de los datos utilizados a lo largo del libro. Por lo tanto, es necesario instalarlo para el proceso de traducción. 
+```r
+devtools::install_github("cienciadedatos/datos")
+```
+Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`) y `millas` (`ggplot2::mpg`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos
 
-Aún queda por resolver lo que haremos en el capítulo sobre manejo de strings. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`factors::sentences) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
+Aún queda por resolver lo que haremos en el capítulo sobre manejo de strings. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`factors::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
 
 __3. Los objetos/variables creados a partir de los datos se traducen, al igual que las títulos, etiquetas y nombres de ejes en los gráficos.__
 
