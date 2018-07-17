@@ -103,3 +103,6 @@ no_cancelados <- vuelos %>%
   filter(!is.na(atraso_salida), !is.na(atraso_llegada))
   ```
   
+  ## ¿Dudas durante el proceso?
+  
+Recuerda que cualquier duda que te surja puedes plantearla en el canal #dudas-traducción del Slack del proyecto. Todas las consultas son bienvenidas y útiles, ya que permiten ir acordando de manera conjunta los lineamientos a seguir. Las resoluciones que se tomen en ese canal se irán reflejando en este documento, por lo que es importante revisarlo con regularidad.
