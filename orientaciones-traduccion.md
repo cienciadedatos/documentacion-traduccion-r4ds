@@ -8,14 +8,14 @@ Cada capítulo tiene asignada una persona a cargo de la traducción, que es resp
 __1. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que:
 
 * Evitaremos expresiones o usos locales, es decir, que no están extendidos en toda Latinoamérica.
-* No utilizaremos el voseo (vos/vosotros). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como tú.
-* Preferiremos el pretérito perfecto simple (... en el capítulo anterior revisamos...) por sobre el compuesto (... en el capítulo anterior hemos revisado...), ya que el primero es más común en el español Latinoamericano (el otro lo es en el español peninsular). 
+* No utilizaremos el voseo (_vos/vosotros_). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como _tú_.
+* Preferiremos el pretérito perfecto simple (_... en el capítulo anterior revisamos..._) por sobre el compuesto (_... en el capítulo anterior hemos revisado..._), ya que el primero es más común en el español Latinoamericano (el otro lo es en el español peninsular). 
 
 
-__2. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un tú y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... for collaborating with other data scientists”. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, las dos opciones más habituales que se han seguido en traducciones de este tipo son: 
+__2. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un tú y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... _for collaborating with other data scientists”_. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, las dos opciones más habituales que se han seguido en traducciones de este tipo son: 
 
-* Usar el femenino para incluir un género gramatical poco representado: para colaborar con otras científicas de datos. 
-* Ajustar la redacción para evitar tener que asignar un género: para colaborar con otras personas que trabajan en Ciencia de Datos. 
+* Usar el femenino para incluir un género gramatical poco representado: _para colaborar con otras científicas de datos._ 
+* Ajustar la redacción para evitar tener que asignar un género: _para colaborar con otras personas que trabajan en Ciencia de Datos._
 
 __3. El español es una lengua menos repetitiva que el inglés.__ Como los verbos tienen marca de persona, género y número, tenemos la flexibilidad de poder omitir el sujeto ya que por contexto se suele entender a qué nos estamos refiriendo. 
 
