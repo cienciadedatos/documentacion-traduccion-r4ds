@@ -20,6 +20,6 @@ En este respositorio se encuentran los materiales con los lineamientos para el p
 
 ## ¿Cómo participar?
 
-Este es un proyecto abierto a la comunidad en el que todas las personas pueden participar siempre y cuando __adscriban nuestro código de conducta__. Si tienes interés en sumarte al equipo, revisa los documentos de este repositorio para conocer cómo estamos organizando el trabajo y luego contáctanos a través del issue que hemos abierto para ese propósito. 
+Este es un proyecto abierto a la comunidad en el que todas las personas pueden participar siempre y cuando __adscriban nuestro código de conducta__. Si tienes interés en sumarte al equipo, revisa los documentos de este repositorio para conocer cómo estamos organizando el trabajo y luego contáctanos a través del [_issue_](https://github.com/cienciadedatos/descripcion-y-orientaciones/issues/1) que hemos abierto para ese propósito. 
 
 
