@@ -39,6 +39,8 @@ __5. Las expresiones idiomáticas no son traducibles de manera literal.__ En cas
 Ejemplo:  
 > it’s raining cats and dogs > está lloviendo a cántaros
 
+__6. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas. 
+
 ## II. Traducción (o no) de términos técnicos.
 Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que decidir qué género gramatical asignarle (por ejemplo, ¿el o la dataframe? ¿un o una pipe?) y si ofreceremos una traducción explicativa la primera vez que las utilicemos (por ejemplo, “este dataset (conjunto de datos) contiene las siguientes variables; ...”
 
@@ -68,8 +70,8 @@ Original:
 > * Reorder the rows (`arrange()`).
 
 Traducción:
-> * Escoger observaciones según sus valores (`filter()`  — del inglés filtrar—).
-> * Reordenar las filas (`arrange()`  — del inglés organizar).
+> * Escoger observaciones según sus valores (`filter()`  — del inglés _filtrar_).
+> * Reordenar las filas (`arrange()`  — del inglés _organizar_).
 
 __2. Datos.__ Este proyecto tiene asociado el desarrollo de un paquete con la traducción de todos los datos. Por lo tanto, es necesario instalarlo para el proceso de traducción. Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos
 
