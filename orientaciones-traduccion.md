@@ -5,9 +5,10 @@ Cada capítulo tiene asignada una persona a cargo de la traducción, que es resp
 
 ## I. Aspectos a tener en cuenta para la traducción del texto
 
-__1. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que
+__1. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que:
 
-* Evitaremos el voseo (vos/vosotros). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como tú.
+* Evitaremos expresiones o usos locales, es decir, que no están extendidos en toda Latinoamérica.
+* No utilizaremos el voseo (vos/vosotros). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como tú.
 * Preferiremos el pretérito perfecto simple (... en el capítulo anterior revisamos...) por sobre el compuesto (... en el capítulo anterior hemos revisado...), ya que el primero es más común en el español Latinoamericano (el otro lo es en el español peninsular). 
 
 
@@ -47,7 +48,7 @@ __6. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cue
 ## II. Traducción (o no) de términos técnicos.
 Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que decidir qué género gramatical asignarle (por ejemplo, ¿el o la dataframe? ¿un o una pipe?) y si ofreceremos una traducción explicativa la primera vez que las utilicemos (por ejemplo, “este dataset (conjunto de datos) contiene las siguientes variables; ...”
 
-[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos seguir, pero hay otros términos que irán apareciendo en la medida que avancemos. Por lo tanto, iremos desarrollando las siguientes listas de términos:
+[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos seguir, pero hay otros términos que irán apareciendo en la medida que avancemos. Por lo tanto, iremos completando las siguientes listas de términos:
 
 #### Traducción de términos técnicos
 
@@ -97,3 +98,4 @@ not_cancelled <- flights %>%
 no_cancelados <- vuelos %>% 
   filter(!is.na(atraso_salida), !is.na(atraso_llegada))
   ```
+  
