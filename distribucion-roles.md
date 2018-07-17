@@ -9,12 +9,12 @@
 | 3. Data visualisation | Florencia D'Andrea (@flor14) |
 | 4. Workflow: basics | Yanina Bellini (@yabellini) |
 | 5. Data transformation | Marcela Alfaro (@malfaro2) |
-| 6. Workflow: scripts | Marcela Alfaro (@malfaro2) |
+| 6. Workflow: scripts | Lina Moreno (@LinaMorenoAzocar) |
 | 7. Exploratory Data Analysis | Pamela Matías (@pamelinni) |
 | 8. Workflow: Projects | Pamela Matías (@pamelinni) |
 | 9. Wrangle: Introduction | Yanina Bellini (@yabellini) |
-| 10. Tibbles | Pacha (@pachamaltese) |
-| 11. Data Import | Pacha (@pachamaltese) |
+| 10. Tibbles |  |
+| 11. Data Import |  |
 | 12. Tidy Data | Pacha (@pachamaltese) |
 | 13. Relational Data with dplyr | Pacha (@pachamaltese) |
 | 14. Strings | Riva Quiroga (@rivaquiroga) |
