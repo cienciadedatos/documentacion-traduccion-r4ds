@@ -10,9 +10,9 @@
 | 4. Workflow: basics | Lucía Rodríguez Planes (@luciairp) | 17 de septiembre |
 | 5. Data transformation | Marcela Alfaro (@malfaro2) | 31 de agosto |
 | 6. Workflow: scripts | Lina Moreno (@LinaMorenoAzocar) | 15 de agosto |
-| 7. Exploratory Data Analysis | Pamela Matías (@pamelinni) |
-| 8. Workflow: Projects | Pamela Matías (@pamelinni) |
-| 9. Wrangle: Introduction | Mónica Alonso (@monialo2000)|
+| 7. Exploratory Data Analysis | Pamela Matías (@pamelinni) | 31 de agosto |
+| 8. Workflow: Projects | Pamela Matías (@pamelinni) | 31 de julio |
+| 9. Wrangle: Introduction | Mónica Alonso (@monialo2000)|31 de agosto |
 | 10. Tibbles | Elio Campitelli (@d_olivaw) |
 | 11. Data Import | Lina Moreno (@LinaMorenoAzocar) |
 | 12. Tidy Data | Pacha (@pachamaltese) |
@@ -29,7 +29,7 @@
 | 23. Model basics | Joshua Kunst (@jbkunst) |
 | 24. Model building | Joshua Kunst (@jbkunst) |
 | 25. Many models | Daniela Vázquez (@d4tagirl) | 31 de agosto |
-| 26. Communicate: introduction | Patricia Loto (@patriloto) |
+| 26. Communicate: introduction | Patricia Loto (@patriloto) | 15 de agosto |
 | 27. R Markdown | Juliana Benítez (@julybenitez) |
 | 28. Graphics for communication | Florencia D'Andrea (@flor14) | 31 de agosto |
 | 29. R Markdown formats | Juliana Benítez (@julybenitez) |
