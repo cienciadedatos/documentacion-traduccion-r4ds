@@ -28,7 +28,7 @@
 | 22. Model: introduction | Yanina Bellini (@yabellini) |
 | 23. Model basics | Joshua Kunst (@jbkunst) |
 | 24. Model building | Joshua Kunst (@jbkunst) |
-| 25. Many models | Joshua Kunst (@jbkunst) |
+| 25. Many models | Daniela Vázquez (@d4tagirl) |
 | 26. Communicate: introduction | Patricia Loto (@patriloto) |
 | 27. R Markdown | Juliana Benítez (@julybenitez) |
 | 28. Graphics for communication | Florencia D'Andrea (@flor14) | 31 de agosto |
