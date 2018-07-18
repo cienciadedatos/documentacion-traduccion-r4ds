@@ -46,11 +46,12 @@ Ejemplo:
 __6. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas. 
 
 ## II. Traducción (o no) de términos técnicos.
-Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que decidir qué género gramatical asignarle (por ejemplo, ¿el o la dataframe? ¿un o una pipe?) y si ofreceremos una traducción explicativa la primera vez que las utilicemos (por ejemplo, “este dataset (conjunto de datos) contiene las siguientes variables; ...”
+Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que decidir qué género gramatical asignarle (por ejemplo, ¿el o la dataframe? ¿un o una pipe?) y si ofreceremos una traducción explicativa la primera vez que las utilicemos.
+A medida que avancemos con la traducción, la idea es ir discutiendo este punto en el canal #dudas-traducción. A partir de lo que se acuerde, iremos completando las siguientes listas de términos.
 
-[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos seguir, pero hay otros términos que irán apareciendo en la medida que avancemos. Por lo tanto, iremos completando las siguientes listas de términos:
 
-#### Traducción de términos técnicos
+#### Términos técnicos que se traducen
+Pese a que hay términos que traduciremos al español, es importante que quien traduzca evalúe si corresponde mencionar de todos modos el término en inglés la primera vez. Por ejemplo, si bien _string_ es un término que tiene una traducción (_cadena de caracteres_) la primera vez que se menciona sería útil ofrecer también la versión en inglés, porque así resulta más claro por qué el paquete se llama __stringr__. Por ejemplo: "Este capítulo te introducirá en la manipulación de cadenas de caracteres (_strings_) en R.".
 
 | término en inglés | traducción a utilizar |
 | ----------- | ----------- |
@@ -61,11 +62,15 @@ Hay términos técnicos que será necesario traducir y otros que no. El criterio
 
 
 #### Términos técnicos que se mantienen
+Estos términos irán _en cursiva_:
 
 | no traducir |
 | ----------------------------|
-| el output |
+| el _output_ |
 | ... |
+
+
+[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos ir revisando y ver si se adecuan al propóstio de la traducción que estamos realizando. 
 
 ## III. Traducción del código: 
 
@@ -85,7 +90,7 @@ devtools::install_github("cienciadedatos/datos")
 ```
 Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`) y `millas` (`ggplot2::mpg`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos
 
-Aún queda por resolver lo que haremos en el capítulo sobre manejo de strings. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`factors::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
+Aún queda por resolver lo que haremos en el capítulo sobre manejo de strings. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`stringr::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
 
 __3. Los objetos/variables creados a partir de los datos se traducen, al igual que las títulos, etiquetas y nombres de ejes en los gráficos.__
 
