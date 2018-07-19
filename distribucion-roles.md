@@ -14,7 +14,7 @@
 | 8. Workflow: Projects | Pamela Matías (@pamelinni) | 31 de julio |
 | 9. Wrangle: Introduction | Mónica Alonso (@monialo2000)|31 de agosto |
 | 10. Tibbles | Elio Campitelli (@d_olivaw) |
-| 11. Data Import | Lina Moreno (@LinaMorenoAzocar) |
+| 11. Data Import | Lina Moreno (@LinaMorenoAzocar) | 31 de agosto |
 | 12. Tidy Data | Pacha (@pachamaltese) |
 | 13. Relational Data with dplyr | Pacha (@pachamaltese) |
 | 14. Strings | Riva Quiroga (@rivaquiroga) |
