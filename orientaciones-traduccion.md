@@ -64,9 +64,11 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 #### Términos técnicos que se mantienen
 Estos términos irán _en cursiva_:
 
-| no traducir |
+| no traducir    |
 | ----------------------------|
-| el _output_ |
+| el _output_    |
+| el _tibble_    |
+| el _dashboard_ |
 | ... |
 
 
