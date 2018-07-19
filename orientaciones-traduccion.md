@@ -62,13 +62,15 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 
 
 #### Términos técnicos que se mantienen
-Estos términos irán _en cursiva_:
+Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posible traducción al español, ya que en algunos casos permite entender mejor el concepto que está detrás (por ejemplo, que _pipe_ es tubo / tubería). En caso de que sean nombres de paquetes o palabras nuevas en inglés (que no se encontrarían en un diccionario), ofreceremos una indicación sobre cómo se pronuncian. 
 
 | no traducir    |
 | ----------------------------|
-| el _output_    |
-| el _tibble_    |
-| el _dashboard_ |
+| un _dashboard_ |
+| un _pipe_
+| un _output_    |
+| un _script_
+| un _tibble_    |
 | ... |
 
 
