@@ -14,7 +14,7 @@ En todo momento se cautelará que este sea un ambiente libre de acoso y hostigam
 En este respositorio se encuentran los materiales con los lineamientos para el proceso de traducción y revisión:
 
 * En el archivo [orientaciones para la traducción](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) se describen los aspectos para tener en cuenta a la hora de traducir el texto y el código utilizado en cada capítulo.
-* En el archivo [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flijo-trabajo.md) se señala la secuencia de acciones a seguir por parte de los participantes a lo largo del proceso de traducción y revisión de los capitulos. 
+* En el archivo [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) se señala la secuencia de acciones a seguir por parte de los participantes a lo largo del proceso de traducción y revisión de los capitulos. 
 * En el archivo [distribución de roles](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/distribucion-roles.md) se explicitan las responsabilidades de las personas que participan en este proyecto y la asignación de capítulos para traducir y revisar. 
 * En el archivo __orientaciones para la revisión__ (_en desarrollo_) se entregan recomendaciones sobre los aspectos en los que es necesario fijarse al momeno de revisar una traducción y el tipo de lenguaje a utilizar para hacer recomendaciones. 
 
