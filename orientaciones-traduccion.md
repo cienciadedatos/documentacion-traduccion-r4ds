@@ -56,6 +56,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | término en inglés | traducción a utilizar |
 | ----------- | ----------- |
 | assignment operator | operador de asignación |
+| base R | R base |
 | console | consola |
 | dataset | conjunto de datos |
 | ... | ... |
@@ -67,9 +68,9 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | no traducir    |
 | ----------------------------|
 | un _dashboard_ |
-| un _pipe_
 | un _output_    |
-| un _script_
+| un _pipe_ |
+| un _script_ |
 | un _tibble_    |
 | ... |
 
@@ -111,7 +112,11 @@ not_cancelled <- flights %>%
 no_cancelados <- vuelos %>% 
   filter(!is.na(atraso_salida), !is.na(atraso_llegada))
   ```
-  
+  ## IV. Aspecto de formato
+
+* Los nombres de los paquetes van __en negrita__.
+* Los términos en inglés van _en cursiva_.
+
   ## ¿Dudas durante el proceso?
   
 Recuerda que cualquier duda que te surja puedes plantearla en el canal #dudas-traducción del Slack del proyecto. Todas las consultas son bienvenidas y útiles, ya que permiten ir acordando de manera conjunta los lineamientos a seguir. Las resoluciones que se tomen en ese canal se irán reflejando en este documento, por lo que es importante revisarlo con regularidad.
