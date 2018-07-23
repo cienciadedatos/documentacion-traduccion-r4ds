@@ -57,9 +57,9 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | ----------- | ----------- |
 | assignment operator | operador de asignación |
 | base R | R base |
-| console | consola |
 | clic | hacer clic |
-| dataset | conjunto de datos |
+| console | consola |
+| dataset | conjunto de datos / set de datos |
 | ... | ... |
 
 
