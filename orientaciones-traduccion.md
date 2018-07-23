@@ -94,7 +94,9 @@ __2. Datos.__ Este proyecto tiene asociado el desarrollo de un paquete con la tr
 ```r
 devtools::install_github("cienciadedatos/datos")
 ```
-Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`) y `millas` (`ggplot2::mpg`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos
+Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`), `millas` (`ggplot2::mpg`) y `encuesta`(`forcats::gss_cat`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos.
+
+__Importante: No hay que olvidar agregar `library(datos)` en la sección de cada capítulo en que se cargan los paquetes que se utilizarán.__
 
 Aún queda por resolver lo que haremos en el capítulo sobre manejo de _strings_. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`stringr::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
 
