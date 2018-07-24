@@ -9,6 +9,6 @@
   - nombre de usuario de Github de las personas responsables de la revisión (si es que ya están definidas)
   - período de tiempo en que estará abierto el proceso de revisión
 * Los comentarios sobre la traducción se deben ir haciendo en el mismo _pull request_ (hacer clic sobre `+` en la línea del código que se quiere comentar). 
-* Una vez revisado el archivo, la persona a cargo de la traducción incorpora los comentarios y hace un nuevo _pull request_ con la versión final del capítulo.
+* Una vez revisado el archivo, la persona a cargo de la traducción hace _commit_ a los cambios que considere pertinentes para que se actualize el _pull request_.
 * [@pachamaltese](https://github.com/pachamaltese) hace el _merge_.
 * [@rivaquiroga](https://github.com/rivaquiroga) cierra el _issue_.
