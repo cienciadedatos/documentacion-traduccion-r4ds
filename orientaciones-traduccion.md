@@ -62,6 +62,10 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | clic | hacer clic |
 | console | consola |
 | dataset | conjunto de datos / set de datos |
+| parse | segmentar o analizar (depende del contexto) |
+| query | consulta |
+| test set | set/datos de validación |
+| training set | set/datos de entrenamiento |
 | ... | ... |
 
 
@@ -123,6 +127,12 @@ no_cancelados <- vuelos %>%
 * Los términos en inglés van _en cursiva_.
 * La propuesta de pronunciación de un término en inglés va entre barras: /tibl/.
 
+  ## V. Aspectos de ortografía / gramática del español
+  
+* Ni los demostrativos ni el adverbio "solo" se tildan.
+* Días y meses se escriben con minúscula
+* Los títulos llevan mayúscula solo en la palabra inicial
+  
   ## ¿Dudas durante el proceso?
   
 Recuerda que cualquier duda que te surja puedes plantearla en el canal #dudas-traducción del Slack del proyecto. Todas las consultas son bienvenidas y útiles, ya que permiten ir acordando de manera conjunta los lineamientos a seguir. Las resoluciones que se tomen en ese canal se irán reflejando en este documento, por lo que es importante revisarlo con regularidad.
