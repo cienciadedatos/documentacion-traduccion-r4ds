@@ -82,7 +82,7 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | ... |
 
 
-[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos ir revisando y ver si se adecuan al propóstio de la traducción que estamos realizando. 
+[Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos ir revisando y ver si se adecuan al propósito de la traducción que estamos realizando. 
 
 ## III. Traducción del código: 
 
