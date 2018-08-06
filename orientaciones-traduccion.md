@@ -66,6 +66,8 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | query | consulta |
 | test set | set/datos de validación |
 | training set | set/datos de entrenamiento |
+| tidy data | datos ordenados |
+| list-columns | columnas-lista |
 | ... | ... |
 
 
