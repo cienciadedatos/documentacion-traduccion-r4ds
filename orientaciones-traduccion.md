@@ -68,6 +68,9 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | training set | set/datos de entrenamiento |
 | tidy data | datos ordenados |
 | list-columns | columnas-lista |
+| tidy data | datos ordenados |
+| named list | lista nombrada |
+| facet | separar facetas |
 | ... | ... |
 
 
