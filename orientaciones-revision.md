@@ -12,4 +12,17 @@ A continuación se presentan algunas indicaciones para el proceso:
 
 * Antes de revisar, es importante que leas las [orientaciones](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) que siguieron quienes tradujeron los capítulos. Así podrás conocer los acuerdos que se han ido generando a lo largo del proceso.
 
-* Tus comentarios debes dejarlos en la de revisión del _pull request_ de la traducción. En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás más detalles sobre el proceso.
+* Tus comentarios debes dejarlos en la de revisión del _pull request_ de la traducción. 
+
+Para ello, debes ir a la pestaña "Files changed":
+<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/files_changed.png"></a>
+Cuando encuentres una línea de código sobre la que te gustaría dejar una sugerencia, haz clic sobre `+`:
+<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/add_comment.png"></a>
+Se desplegará la opción de dejar un comentario. Una vez que escribas tus sugerencias, haz clic en "Add single comment":
+<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/write_comment.png"></a>
+Sigue agregando los comentarios y sugerencias que te parezcan pertinentes. Si tienes dudas sobre algún térmio, puedes proponer crear un _poll_ en el Slack del proyecto:
+<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/comment_2.png"></a>
+Tus comentarios se irán sumando a la sección "Conversation". Esto permitirá que otras personas opinen y que quienes también están revisando ese capítulo vean qué líneas ya fueron comentadas. 
+Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-traduccion, #dudas-proceso-trabajo, #dudas-github) 
+
+En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción del  detalles sobre el proceso.
