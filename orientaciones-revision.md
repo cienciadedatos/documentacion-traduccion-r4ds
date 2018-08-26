@@ -10,12 +10,12 @@ A continuación se presentan algunas indicaciones para el proceso:
 
 * Lo que buscamos en este proyecto es que la traducción sea clara y accesible para un público hispanoparlante amplio. Como las personas que participan en él hablan distintas variantes del español, es natural que haya más de una manera de traducir un determinado fragmento. En ese sentido, más que versiones correctas o incorrectas de la traducción, lo que podemos encontrar al revisar son versiones más o menos extendidas de un término o expresión. Si tienes dudas sobre qué tan común es una determinada palabra o expresión, puedes plantearlo como pregunta en el _pull request_ asociado al capítulo que estás revisando, o bien, sugerir la apertura de una encuesta en el Slack del proyecto.
 
-* Antes de revisar, es importante que leas las [orientaciones](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) que siguieron quienes tradujeron los capítulos. Así podrás conocer los acuerdos que se han ido generando a lo largo del proceso.
+* Antes de revisar, es importante que leas las [orientaciones](https://github.com/rivaquiroga/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) que siguieron quienes tradujeron los capítulos. Así podrás conocer los acuerdos que se han ido generando a lo largo del proceso.
 
 * Tus comentarios debes dejarlos en la de revisión del _pull request_ de la traducción. 
 
 Para ello, debes ir a la pestaña "Files changed":
-<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/files_changed.png"></a>
+<img src= "screenshots/files_changed.png" alt="Files changed" />
 Cuando encuentres una línea de código sobre la que te gustaría dejar una sugerencia, haz clic sobre `+`:
 <a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/screenshots/add_comment.png"></a>
 Se desplegará la opción de dejar un comentario. Una vez que escribas tus sugerencias, haz clic en "Add single comment":
