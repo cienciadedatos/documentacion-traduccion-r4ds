@@ -14,28 +14,13 @@ A continuación se presentan algunas indicaciones para el proceso:
 
 - Tus comentarios debes dejarlos en el mismo _pull request_ de la traducción. 
 
-  - Para ello, debes ir a la pestaña "Files changed":
-<img src= "screenshots/files_changed.png" alt="Files changed" />
-
-
-  - Cuando encuentres una línea de código sobre la que te gustaría dejar una sugerencia, haz clic sobre `+`:
-<img src= "screenshots/add_comment.png" alt="Add comment" />
-
-
-  - Se desplegará la opción de dejar un comentario. Una vez que escribas tus sugerencias, haz clic en "Add single comment":
-<img src= "screenshots/write_comment.png" alt="Write comment" />
-
-
-  - Sigue agregando los comentarios y sugerencias que te parezcan pertinentes. Si tienes dudas sobre algún térmio, puedes proponer crear un _poll_ en el Slack del proyecto:
-
-<img src= "screenshots/comment2.png" alt="Poll" />
-
-
-  - Tus comentarios se irán sumando a la sección "Conversation". Esto permitirá que otras personas opinen y que quienes también están revisando ese capítulo vean qué líneas ya fueron comentadas:
-
-<img src= "screenshots/in_conversation.png" alt="Add comment" />
+  - Para ello, debes ir a la pestaña "Files changed": <img src= "screenshots/files_changed.png" alt="Files changed" />
+  - Cuando encuentres una línea de código sobre la que te gustaría dejar una sugerencia, haz clic sobre `+`: <img src= "screenshots/add_comment.png" alt="Add comment" />
+  - Se desplegará la opción de dejar un comentario. Una vez que escribas tus sugerencias, haz clic en "Add single comment": <img src= "screenshots/write_comment.png" alt="Write comment" />
+  - Sigue agregando los comentarios y sugerencias que te parezcan pertinentes. Si tienes dudas sobre algún térmio, puedes proponer crear un _poll_ en el Slack del proyecto: <img src= "screenshots/comment2.png" alt="Poll" />
+  - Tus comentarios se irán sumando a la sección "Conversation". Esto permitirá que otras personas opinen y que quienes también están revisando ese capítulo vean qué líneas ya fueron comentadas: <img src= "screenshots/in_conversation.png" alt="Add comment" />
 
 
   - Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-traduccion, #dudas-proceso-trabajo, #dudas-github) 
 
-En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción del  detalles sobre el proceso.
+En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción de todo el proceso de trabajo.
