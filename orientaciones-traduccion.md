@@ -16,7 +16,7 @@ __2. La variedad dialectal del español que ocuparemos en la traducción es la d
 
 __3. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un _tú_ y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... _for collaborating with other data scientists”_. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, las dos opciones más habituales que se han seguido en traducciones de este tipo son: 
 
-* Usar el femenino para incluir un género gramatical poco representado: _para colaborar con otras científicas de datos._ 
+* Usar el femenino para incluir al género gramatical poco representado: _para colaborar con otras científicas de datos._ 
 * Ajustar la redacción para evitar tener que asignar un género: _para colaborar con otras personas que trabajan en Ciencia de Datos._
 
 __4. El español es una lengua menos repetitiva que el inglés.__ Como los verbos tienen marca de persona, género y número, tenemos la flexibilidad de poder omitir el sujeto, ya que por contexto se suele entender a qué nos estamos refiriendo. 
@@ -48,7 +48,7 @@ Ejemplo:
 __7. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas. 
 
 ## II. Traducción (o no) de términos técnicos.
-Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que decidir qué género gramatical asignarle y si ofreceremos una traducción explicativa la primera vez que las utilicemos.
+Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que determinar qué género gramatical asignarle y si ofreceremos una traducción explicativa la primera vez que las utilicemos. 
 A medida que avancemos con la traducción, la idea es ir discutiendo este punto en el canal #dudas-traducción. A partir de lo que se acuerde, iremos completando las siguientes listas de términos.
 
 
@@ -59,18 +59,17 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | ----------- | ----------- |
 | assignment operator | operador de asignación |
 | base R | R base |
-| clic | hacer clic |
+| click | hacer clic |
 | console | consola |
 | dataset | conjunto de datos / set de datos |
+| facet | separar facetas |
+| named list | lista nombrada |
+| list-columns | columnas-lista |
 | parse | segmentar o analizar (depende del contexto) |
 | query | consulta |
 | test set | set/datos de validación |
 | training set | set/datos de entrenamiento |
 | tidy data | datos ordenados |
-| list-columns | columnas-lista |
-| tidy data | datos ordenados |
-| named list | lista nombrada |
-| facet | separar facetas |
 | ... | ... |
 
 
@@ -79,7 +78,10 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 
 | no traducir    |
 | ----------------------------|
+| Big Data |
 | un _dashboard_ |
+| un _data frame_ |
+| un _notebook_ |
 | un _output_    |
 | un _pipe_ |
 | un _script_ |
@@ -136,7 +138,7 @@ no_cancelados <- vuelos %>%
   
 * Ni los demostrativos ni el adverbio "solo" se tildan.
 * Días y meses se escriben con minúscula
-* Los títulos llevan mayúscula solo en la palabra inicial
+* Los títulos llevan mayúscula solo en la palabra inicial (salvo que incluyan un nombre propio)
   
 ## ¿Dudas durante el proceso?
   
