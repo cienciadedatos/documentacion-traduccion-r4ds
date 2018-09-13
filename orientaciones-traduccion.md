@@ -61,10 +61,12 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | base R | R base |
 | click | hacer clic |
 | console | consola |
+| debugging | depurar |
 | dataset | conjunto de datos / set de datos |
 | facet | separar facetas |
-| named list | lista nombrada |
 | list-columns | columnas-lista |
+| mapping | mapear |
+| named list | lista nombrada |
 | parse | segmentar o analizar (depende del contexto) |
 | query | consulta |
 | test set | set/datos de validación |
