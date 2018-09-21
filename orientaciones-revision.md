@@ -22,6 +22,6 @@ A continuación se presentan algunas indicaciones para el proceso:
 
 
 
-- Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-traduccion, #dudas-proceso-trabajo, #dudas-github) 
+- Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-revision, #dudas-proceso-trabajo, #dudas-github) 
 
 ¿Y luego? En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción de todo el proceso.
