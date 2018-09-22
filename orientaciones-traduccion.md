@@ -53,10 +53,11 @@ A medida que avancemos con la traducción, la idea es ir discutiendo este punto 
 
 
 #### Términos técnicos que se traducen
-Pese a que hay términos que traduciremos al español, es importante que quien traduzca evalúe si corresponde mencionar de todos modos el término en inglés la primera vez. Por ejemplo, si bien _string_ es un término que tiene una traducción (_cadena de caracteres_) la primera vez que se menciona sería útil ofrecer también la versión en inglés, porque así resulta más claro por qué el paquete se llama __stringr__. Por ejemplo: "Este capítulo te introducirá en la manipulación de cadenas de caracteres (_strings_) en R.".
+Pese a que hay términos que traduciremos al español, es importante que quien traduzca evalúe si corresponde mencionar de todos modos el término en inglés la primera vez. Por ejemplo, si bien _string_ es un término que tiene una traducción (_cadena de caracteres_) la primera vez que se menciona sería útil ofrecer también la versión en inglés, porque así resulta más claro por qué el paquete se llama __stringr__. Por ejemplo: "Este capítulo te introducirá en la manipulación de cadenas de caracteres (_strings_) en R.". En el caso de términos cuya traducción en español no está tan extendida, es necesario evaluar si corresponde agregar una pequeña explicación (por ejemplo, _mapping_ > "..._mapear, es decir, indicar qué variables se asignarán a cada eje_...".
 
 | término en inglés | traducción a utilizar |
 | ----------- | ----------- |
+| aesthetics | estéticas |
 | assignment operator | operador de asignación |
 | base R | R base |
 | click | hacer clic |
@@ -111,7 +112,7 @@ devtools::install_github("cienciadedatos/datos")
 ```
 Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`), `millas` (`ggplot2::mpg`) y `encuesta`(`forcats::gss_cat`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos.
 
-__Importante: No hay que olvidar agregar `library(datos)` en la sección de cada capítulo en que se cargan los paquetes que se utilizarán.__
+__Importante: No hay que olvidar agregar `library(datos)` en la sección de cada capítulo en que se cargan los paquetes que se utilizarán. En la misma línea, si en el capítulo se carga el set de datos con el formato `ggplot2::diamonds`, hay que modificarlo para que lo cargue desde el paquete datos: `datos:diamantes`.__
 
 Aún queda por resolver lo que haremos en el capítulo sobre manejo de _strings_. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`stringr::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
 
