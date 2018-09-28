@@ -146,6 +146,7 @@ no_cancelados <- vuelos %>%
 * Ni los demostrativos ni el adverbio "solo" se tildan.
 * Días y meses se escriben con minúscula.
 * Los títulos llevan mayúscula solo en la palabra inicial (salvo que incluyan un nombre propio).
+* Para consultar la forma convencional de una abreviatura en español, revisar este [enlace](http://www.rae.es/diccionario-panhispanico-de-dudas/apendices/abreviaturas). Hasta el momento ha aparecido _por ejemplo_ > _p. ej._.
   
 ## ¿Dudas durante el proceso?
   
