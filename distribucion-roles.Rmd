@@ -27,7 +27,7 @@ distribucion
 
 ### Otros roles
 
-* __Administración general__: Riva Quiroga (@rivaquiroga)
+* __Coordinación general__: Riva Quiroga (@rivaquiroga)
 * __Editora de la traducción__: Riva Quiroga (@rivaquiroga)
 * __Administración repositorio R4DS__: Pacha (@pachamaltese)
 * __Responsable paquete traducción de datos__: Edgar Ruiz (@edgararuiz)

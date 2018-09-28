@@ -5,7 +5,7 @@ Cada capítulo tiene asignada una persona a cargo de la traducción, que es resp
 
 ## I. Aspectos a tener en cuenta para la traducción del texto
 
-__1. Al traducir lo que buscamos es generar una versión de cómo diríamos en español lo que en el capítulo está escrito en inglés.__ En algunos casos eso puede implicar alterar el orden de los elementos de una oración o agregar palabras que no estaban en el original. Lo importante es que la traducción "suene" lo más natural posible en español, respetando el contenido que se quizo transmitir en el original. 
+__1. Al traducir lo que buscamos es generar una versión de cómo diríamos en español lo que en el capítulo está escrito en inglés.__ En algunos casos eso puede implicar alterar el orden de los elementos de una oración o agregar palabras que no estaban en el original. Lo importante es que la traducción "suene" lo más natural posible en español, respetando el contenido que se quiso transmitir en el original. 
 
 __2. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que:
 
@@ -38,7 +38,7 @@ Sin embargo, hay casos en que en español la forma “no marcada”, es decir, l
 Ejemplo: 
 > ...this small example helps to understand... > ...este pequeño ejemplo ayuda a entender...
 
-En general, ante dudas de este tipo, pensar en qué es lo que suena más natural/normal en español
+En general, ante dudas de este tipo, pensar en qué es lo que suena más natural/normal en español.
 
 __6. Las expresiones idiomáticas no son traducibles de manera literal.__ En caso de que las hubiere (lo iremos descubriendo en el camino), hay que proponer una traducción que permita entender el sentido de ella. 
 
@@ -59,12 +59,15 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | ----------- | ----------- |
 | aesthetics | estéticas |
 | assignment operator | operador de asignación |
+| backtick (\`) | acento grave |
 | base R | R base |
+| by default | por defecto |
 | click | hacer clic |
 | console | consola |
 | debugging | depurar |
 | dataset | conjunto de datos / set de datos |
 | facet | separar facetas |
+| input | input (la palabra existe en español, no se traduce) |
 | list-columns | columnas-lista |
 | mapping | mapear |
 | named list | lista nombrada |
@@ -89,6 +92,7 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | un _pipe_ |
 | un _script_ |
 | un _tibble_    |
+| _tidyverse_    |
 | ... |
 
 
@@ -116,7 +120,7 @@ __Importante: No hay que olvidar agregar `library(datos)` en la sección de cada
 
 Aún queda por resolver lo que haremos en el capítulo sobre manejo de _strings_. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`stringr::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos. 
 
-__3. Los objetos/variables creados a partir de los datos se traducen, al igual que las títulos, etiquetas y nombres de ejes en los gráficos.__
+__3. Los objetos/variables creados a partir de los datos se traducen, al igual que los títulos, etiquetas y nombres de ejes en los gráficos.__
 
 Por ejemplo:
 
@@ -140,8 +144,8 @@ no_cancelados <- vuelos %>%
 ## V. Aspectos de ortografía / gramática del español
   
 * Ni los demostrativos ni el adverbio "solo" se tildan.
-* Días y meses se escriben con minúscula
-* Los títulos llevan mayúscula solo en la palabra inicial (salvo que incluyan un nombre propio)
+* Días y meses se escriben con minúscula.
+* Los títulos llevan mayúscula solo en la palabra inicial (salvo que incluyan un nombre propio).
   
 ## ¿Dudas durante el proceso?
   
