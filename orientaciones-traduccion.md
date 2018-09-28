@@ -58,13 +58,16 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | término en inglés | traducción a utilizar |
 | ----------- | ----------- |
 | assignment operator | operador de asignación |
+| backtick (\`) | acento grave |
 | base R | R base |
+| by default | por defecto |
 | click | hacer clic |
 | console | consola |
 | dataset | conjunto de datos / set de datos |
 | facet | separar facetas |
-| named list | lista nombrada |
+| input | input (la palabra existe en español, no se traduce) |
 | list-columns | columnas-lista |
+| named list | lista nombrada |
 | parse | segmentar o analizar (depende del contexto) |
 | query | consulta |
 | test set | set/datos de validación |
@@ -86,6 +89,7 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | un _pipe_ |
 | un _script_ |
 | un _tibble_    |
+| un _tidyverse_    |
 | ... |
 
 
