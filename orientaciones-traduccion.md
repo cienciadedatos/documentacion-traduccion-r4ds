@@ -45,7 +45,9 @@ __6. Las expresiones idiomáticas no son traducibles de manera literal.__ En cas
 Ejemplo:  
 > _it’s raining cats and dogs_ > _está lloviendo a cántaros_
 
-__7. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas. 
+__7. Inconsistencias en el texto original.__ El texto original mezcla las primeras personas del singular y del plural. En la traducción siempre usaremos la primera persona del plural. Por otra parte, si hay inconsistencias de tiempos verbales en el original dentro de un mismo párrafo, la idea es arreglar la inconsistencia en la traducción.
+
+__8. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas. 
 
 ## II. Traducción (o no) de términos técnicos.
 Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que determinar qué género gramatical asignarle y si ofreceremos una traducción explicativa la primera vez que las utilicemos. 
@@ -66,12 +68,15 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | console | consola |
 | debugging | depurar |
 | dataset | conjunto de datos / set de datos |
+| e.g. | p. ej. |
 | facet | separar facetas |
 | input | input (la palabra existe en español, no se traduce) |
 | list-columns | columnas-lista |
 | mapping | mapear |
 | named list | lista nombrada |
+| partial matching | coincidencia parcial |
 | parse | segmentar o analizar (depende del contexto) |
+| placeholder | marcador de posición |
 | query | consulta |
 | test set | set/datos de validación |
 | training set | set/datos de entrenamiento |
