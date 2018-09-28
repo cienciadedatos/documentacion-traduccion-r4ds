@@ -11,7 +11,7 @@ __2. La variedad dialectal del español que ocuparemos en la traducción es la d
 
 * Evitaremos expresiones o usos locales, es decir, que no están extendidos en toda Latinoamérica.
 * No utilizaremos el voseo (_vos/vosotros_). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como _tú_ (... _you'll learn_ > ... _aprenderás_). 
-* Preferiremos el pretérito perfecto simple (... _en el capítulo anterior __revisamos__..._) por sobre el compuesto (... _en el capítulo anterior __hemos revisado__..._), ya que el primero es más común en el español Latinoamericano (el otro lo es en el español peninsular). 
+* Preferiremos el pretérito perfecto simple (... _en el capítulo anterior __revisamos__..._) por sobre el compuesto (... _en el capítulo anterior __hemos revisado__..._) para hacer referencia a acciones ya completadas en el pasado, ya que el primero es más común en el español Latinoamericano (el otro lo es en el español peninsular). 
 
 
 __3. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un _tú_ y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... _for collaborating with other data scientists”_. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, las dos opciones más habituales que se han seguido en traducciones de este tipo son: 
