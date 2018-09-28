@@ -89,7 +89,7 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | un _pipe_ |
 | un _script_ |
 | un _tibble_    |
-| un _tidyverse_    |
+| _tidyverse_    |
 | ... |
 
 
