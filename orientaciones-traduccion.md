@@ -73,7 +73,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | facet | separar facetas |
 | input | input (la palabra existe en español, no se traduce) |
 | list-columns | columnas-lista |
-1 log-transformation | transformación logarítmica |
+| log-transformation | transformación logarítmica |
 | mapping | mapear |
 | named list | lista nombrada |
 | partial matching | coincidencia parcial |
