@@ -61,6 +61,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | ----------- | ----------- |
 | aesthetics | estéticas |
 | assignment operator | operador de asignación |
+| atomic vectors | vectores atómicos |
 | backtick (\`) | acento grave |
 | base R | R base |
 | by default | por defecto |
@@ -72,12 +73,14 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | facet | separar facetas |
 | input | input (la palabra existe en español, no se traduce) |
 | list-columns | columnas-lista |
+| log-transformation | transformación logarítmica |
 | mapping | mapear |
 | named list | lista nombrada |
 | partial matching | coincidencia parcial |
 | parse | segmentar o analizar (depende del contexto) |
 | placeholder | marcador de posición |
 | query | consulta |
+| raw data | datos sin procesar |
 | test set | set/datos de validación |
 | training set | set/datos de entrenamiento |
 | tidy data | datos ordenados |
