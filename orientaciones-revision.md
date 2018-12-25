@@ -4,15 +4,15 @@
 
 A continuación se presentan algunas indicaciones para el proceso:
 
-- Este proyecto tiene un [Código de conducta](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/README.md). Para participar debes adscribir a lo que en él se plantea. 
+- Este proyecto tiene un [Código de conducta](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/README.md). Para participar debes adscribir a lo que en él se plantea.
 
-- El objetivo del proceso de revisión es conseguir la mejor traducción posible para un determinado capítulo. Por lo tanto, lo que se espera es que hagas __sugerencias de mejora__, no que indiques errores sin ninguna propuesta de solución. 
+- El objetivo del proceso de revisión es conseguir la mejor traducción posible para un determinado capítulo. Por lo tanto, lo que se espera es que hagas __sugerencias de mejora__, no que indiques errores sin ninguna propuesta de solución.
 
-- Lo que buscamos en este proyecto es que la traducción sea clara y accesible para un público hispanoparlante amplio. Como las personas que participan en él hablan distintas variantes del español, es natural que haya más de una manera de traducir un determinado fragmento. En ese sentido, más que versiones correctas o incorrectas de la traducción, lo que podemos encontrar al revisar son versiones más o menos extendidas de un término o expresión. Si tienes dudas sobre qué tan común es una determinada palabra o expresión, puedes plantearlo como pregunta en el _pull request_ asociado al capítulo que estás revisando, o bien, sugerir la apertura de una encuesta en el Slack del proyecto.
+- Lo que buscamos en este proyecto es que la traducción sea clara y accesible para un público hispanoparlante amplio. Como las personas que participan en él hablan distintas variantes del español, es natural que haya más de una manera de traducir un determinado fragmento. En ese sentido, más que versiones correctas o incorrectas de la traducción, lo que podemos encontrar al revisar son versiones más o menos extendidas de un término o expresión. Si tienes dudas sobre qué tan común es una determinada palabra o expresión, puedes plantearlo como pregunta en en Slack.
 
-- Antes de revisar, es importante que leas las [orientaciones](https://github.com/rivaquiroga/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) que siguieron quienes tradujeron los capítulos. Así podrás conocer los acuerdos que se han ido generando a lo largo del proceso.
+- Antes de revisar, es importante que leas las [orientaciones](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) que siguieron quienes tradujeron los capítulos. Así podrás conocer los acuerdos que se han ido generando a lo largo del proceso.
 
-- Tus comentarios debes dejarlos en el mismo _pull request_ de la traducción. 
+- Tus comentarios debes dejarlos en el mismo _pull request_ de la traducción.
 
   - Para ello, debes ir a la pestaña "Files changed": <img src= "screenshots/files_changed.png" alt="Files changed" />
   - Cuando encuentres una línea de código sobre la que te gustaría dejar una sugerencia, haz clic sobre `+`: <img src= "screenshots/add_comment.png" alt="Add comment" />
@@ -22,6 +22,8 @@ A continuación se presentan algunas indicaciones para el proceso:
 
 
 
-- Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-revision, #dudas-proceso-trabajo, #dudas-github) 
+- Una vez que termines tu revisión, debes anunciarlo en Slack para que quien hizo la traducción incorpore los cambios.
 
-¿Y luego? En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción de todo el proceso.
+- Recuerda que si te surje cualquier duda, puedes plantearla en el canal que corresponda en Slack (#dudas-revision, #dudas-proceso-trabajo, #dudas-github)
+
+NOTA: En el documento sobre el [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) encontrarás la descripción de todo el proceso.
