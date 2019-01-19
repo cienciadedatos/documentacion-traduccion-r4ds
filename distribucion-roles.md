@@ -39,4 +39,4 @@
 - **Editora de la traducción**: Riva Quiroga (@rivaquiroga)
 - **Administración repositorio R4DS**: Pacha (@pachamaltese)
 - **Responsable paquete traducción de datos**: Edgar Ruiz (@edgararuiz)
-- **Traducción imágenes**: Edgar Ruiz (@edgararuiz)
+- **Traducción imágenes**: Edgar Ruiz (@edgararuiz) y Pacha (@pachamaltese)
