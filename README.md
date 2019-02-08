@@ -2,7 +2,7 @@
 
 <a href="url"><img src="https://github.com/cienciadedatos/rivaquiroga/blob/master/R4DS-hex.png" align="right" width="30%"></a>
 
-Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro [R for Data Science](http://r4ds.had.co.nz/) para la comunidad hispanoparlante.
+Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro [R for Data Science](http://r4ds.had.co.nz/) para la comunidad hispanoparlante. Se puede acceder a la versión en español en proceso y sin editar [acá](http://es.r4ds.hadley.nz).
 
 
 ## Código de conducta
