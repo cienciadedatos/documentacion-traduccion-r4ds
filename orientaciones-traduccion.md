@@ -73,6 +73,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | list-columns | columnas-lista |
 | log-transformation | transformación logarítmica |
 | mapping | mapear |
+| missing values | valores perdidos |
 | named list | lista nombrada |
 | partial matching | coincidencia parcial |
 | parse | segmentar o analizar (depende del contexto) |
