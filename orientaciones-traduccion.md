@@ -69,6 +69,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | dataset | conjunto de datos / set de datos |
 | facet | separar facetas |
 | input | input (la palabra existe en español, no se traduce) |
+| intercept | intercepto (u ordenada al origen) |
 | list-columns | columnas-lista |
 | log-transformation | transformación logarítmica |
 | mapping | mapear |
@@ -96,6 +97,7 @@ Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posib
 | un _output_    |
 | un _pipe_ |
 | un _script_ |
+| un _spline_ |
 | un _tibble_    |
 | el _tidyverse_    |
 | ... |
