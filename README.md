@@ -1,6 +1,6 @@
 # Proyecto de traducción colaborativa de R4DS
 
-<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/R4DS.png" align="right" width="30%"></a>
+<a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/R4DS-hex.png" align="right" width="30%"></a>
 
 Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro [R for Data Science](http://r4ds.had.co.nz/) para la comunidad hispanoparlante. Se puede acceder a la versión en español en proceso y sin editar [acá](http://es.r4ds.hadley.nz).
 
