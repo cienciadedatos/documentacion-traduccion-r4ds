@@ -10,12 +10,9 @@ __1. Al traducir lo que buscamos es generar una versión de cómo diríamos en e
 __2. La variedad dialectal del español que ocuparemos en la traducción es la de Latinoamérica__ (porque el posible público destinatario que la habla es más amplio). Trataremos de que sea una versión lo más neutra posible, por lo que:
 
 * Evitaremos expresiones o usos locales/regionales, es decir, que no están extendidos en toda Latinoamérica.
-* No utilizaremos el voseo (_vos/vosotros_). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como _tú_ (... _you'll learn_ > ... _aprenderás_). 
+* No utilizaremos el voseo (_vos/vosotros_). R4DS está dirigido a una segunda persona, así que para cautelar la neutralidad la traduciremos como _tú_ (... _you'll learn_ > ... _aprenderás_).
 
-__3. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un _tú_ y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... _for collaborating with other data scientists”_. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, las dos opciones más habituales que se han seguido en traducciones de este tipo son:
-
-* Usar el femenino para incluir al género gramatical poco representado: _para colaborar con otras científicas de datos._
-* Ajustar la redacción para evitar tener que asignar un género: _para colaborar con otras personas que trabajan en Ciencia de Datos._
+__3. Género gramatical.__ A diferencia del inglés, el español tiene género gramatical (masculino, femenino y muy, pero muy pocos neutros). En general, como R4DS está dirigido a un _tú_ y se habla de datos, variables y funciones, hay pocas situaciones en las que haya que tomar una decisión respecto de cómo manejar este tema; pero las hay. Por ejemplo, acá: “... _for collaborating with other data scientists”_. Como son pocos casos, la idea es ir resolviéndolos a medida que aparezcan (Slack, canal #dudas-traducción).  En principio, una opción habitual es ajustar la redacción para evitar tener que asignar un género: _para colaborar con otras personas que trabajan en Ciencia de Datos._
 
 __4. El español es una lengua menos repetitiva que el inglés.__ Como los verbos tienen marca de persona, género y número, tenemos la flexibilidad de poder omitir el sujeto, ya que por contexto se suele entender a qué nos estamos refiriendo.
 
@@ -38,14 +35,20 @@ Ejemplo:
 
 En general, ante dudas de este tipo, pensar en qué es lo que suena más natural/normal en español.
 
-__6. Las expresiones idiomáticas no son traducibles de manera literal.__ En caso de que las hubiere (lo iremos descubriendo en el camino), hay que proponer una traducción que permita entender el sentido de ella.
+__6. El español tiene más modos y tiempos verbales que el inglés__
+Al traducir, por lo tanto, se debe priorizar la forma verbal que sea mejor para expresar el sentido del fragmento en español, no la que parezca ser literal del inglés.
+
+Ejemplo: _That implies that you have the "best" model (according to some criteria); it doesn't imply that you have a good model and it certainly doesn't imply that the model is "true"_ > Esto implica que tienes el "mejor" modelo (de acuerdo a ciertos criterios); no implica que *tengas* un buen modelo y, ciertamente, no implica que el modelo *sea* "verdadero".
+
+__7. Las expresiones idiomáticas no son traducibles de manera literal.__
+En caso de que las hubiere (lo iremos descubriendo en el camino), hay que proponer una traducción que permita entender el sentido de ella.
 
 Ejemplo:  
 > _it’s raining cats and dogs_ > _está lloviendo a cántaros_
 
-__7. Inconsistencias en el texto original.__ El texto original mezcla las primeras personas del singular y del plural. En la traducción siempre usaremos la primera persona del plural. Además, existen algunas inconsistencias en el uso de tiempos verbales en el original dentro de un mismo párrafo. La idea es arreglar la inconsistencia en la traducción.
+__8. Inconsistencias en el texto original.__ El texto original mezcla las primeras personas del singular y del plural. En la traducción siempre usaremos la primera persona del plural. Además, existen algunas inconsistencias en el uso de tiempos verbales en el original dentro de un mismo párrafo. La idea es arreglar la inconsistencia en la traducción.
 
-__8. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas.
+__9. Toma distancia para revisar.__ Cuando trabajamos mucho rato en un texto cuesta identificar errores de tipeo. Como sugerencia, una vez que termines la traducción del capítulo deja pasar algunas horas (o un día) antes de hacer la última lectura y enviarla. Eso hace más fácil que salten a la vista este tipo de detalles y permite que quienes hagan la revisión se concentren en la calidad de la traducción más que en correcciones ortotipográficas.
 
 ## II. Traducción (o no) de términos técnicos.
 Hay términos técnicos que será necesario traducir y otros que no. El criterio suele estar en si existe una versión en español extendida (o entendible), o si se suele utilizar la versión original en inglés. En el caso de los últimos, hay que determinar qué género gramatical asignarle y si ofreceremos una traducción explicativa la primera vez que los utilicemos.
@@ -60,6 +63,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | aesthetics | estéticas |
 | assignment operator | operador de asignación |
 | atomic vectors | vectores atómicos |
+| back slash (\\) | barra invertida |
 | backtick (\`) | acento grave |
 | base R | R base |
 | by default | por defecto |
@@ -68,11 +72,13 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | debugging | depurar |
 | dataset | conjunto de datos / set de datos |
 | facet | separar facetas |
-| input | input (la palabra existe en español, no se traduce) |
+| input | input (la palabra existe como anglicismo en español, no se traduce) |
 | intercept | intercepto (u ordenada al origen) |
+| legend | leyenda |
 | list-columns | columnas-lista |
 | log-transformation | transformación logarítmica |
 | mapping | mapear |
+| match | coincidencia |
 | missing values | valores perdidos |
 | named list | lista nombrada |
 | partial matching | coincidencia parcial |
@@ -80,6 +86,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | placeholder | marcador de posición |
 | query | consulta |
 | raw data | datos sin procesar |
+| regular expression | expresión regular |
 | test set | set/datos de validación |
 | training set | set/datos de entrenamiento |
 | tidy data | datos ordenados |
@@ -87,7 +94,7 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 
 
 #### Términos técnicos que se mantienen
-Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posible traducción al español, ya que en algunos casos permite entender mejor el concepto que está detrás (por ejemplo, que _pipe_ es tubo / tubería). En caso de que sean nombres de paquetes o palabras nuevas en inglés (cuyo uso en este contexto no se encontraría en un diccionario), ofreceremos una indicación sobre cómo se pronuncian la primera vez que aparezcan. Por ejemplo: "... el uso de un _pipe_ (/paip/)...".  
+Estos términos irán _en cursiva_. De ser pertinente, se debe ofrecer una posible traducción al español, ya que en algunos casos permite entender mejor el concepto que está detrás (por ejemplo, que _pipe_ es tubo / ducto / tubería). En caso de que sean nombres de paquetes o palabras nuevas en inglés (cuyo uso en este contexto no se encontraría en un diccionario), ofreceremos una indicación sobre cómo se pronuncian la primera vez que aparezcan. Por ejemplo: "... el uso de un _pipe_ (/paip/)...".  
 
 | no traducir    |
 | ----------------------------|
@@ -120,13 +127,11 @@ Traducción:
 
 __2. Datos.__ Este proyecto tiene asociado el desarrollo de un paquete con la traducción de los datos utilizados a lo largo del libro. Por lo tanto, es necesario instalarlo para el proceso de traducción.
 ```r
-devtools::install_github("cienciadedatos/datos")
+remotes::install_github("cienciadedatos/datos")
 ```
-Los datos traducidos son `diamantes` (`ggplot2::diamonds`), `vuelos` (`nycflights13::flights`), `paises` (`gapminder::gapminder`), `millas` (`ggplot2::mpg`) y `encuesta`(`forcats::gss_cat`). Revisa el repositorio correspondiente para ver las indicaciones: https://github.com/cienciadedatos/datos.
+Puedes revisar el detalle de los datos traducidos en:  https://github.com/cienciadedatos/datos.
 
-__Importante: No hay que olvidar agregar `library(datos)` en la sección de cada capítulo en que se cargan los paquetes que se utilizarán. En la misma línea, si en el capítulo se carga el set de datos con el formato `ggplot2::diamonds`, hay que modificarlo para que lo cargue desde el paquete datos: `datos:diamantes`.__
-
-Aún queda por resolver lo que haremos en el capítulo sobre manejo de _strings_. Lo mejor sería que los ejemplos estuviesen en español, pero el dataset utilizado (`stringr::sentences`) es muy grande (720 oraciones). Una opción es traducir una muestra de esos datos.
+__Importante: No hay que olvidar agregar `library(datos)` en la sección de cada capítulo en que se cargan los paquetes que se utilizarán. En el caso de `Lahman` y `nycflights13`, es necesario recordar que deben estar previamente instalados para que `bateadores` y `vuelos` puedan traducirse. Si en el capítulo se carga el set de datos con el formato `ggplot2::diamonds`, hay que modificar el código porque la llamada `datos:nombredataset` no está implementada aún (y no sabemos todavía si será posible).__
 
 __3. Los objetos/variables creados a partir de los datos se traducen, al igual que los títulos, etiquetas y nombres de ejes en los gráficos.__
 
