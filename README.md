@@ -17,7 +17,7 @@ En este respositorio se encuentran los materiales con los lineamientos para el p
 * En el archivo [flujo de trabajo](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/flujo-trabajo.md) se señala la secuencia de acciones lo largo del proceso de traducción y revisión de los capítulos.
 * En el archivo [orientaciones para la revisión](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-revision.md) se entregan recomendaciones sobre los aspectos en los que es necesario fijarse al momento de revisar una traducción y el tipo de lenguaje a utilizar para hacer recomendaciones.
 * En el archivo [créditos y participación](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/creditos-participacion.md) se explicitan las responsabilidades de las personas que participan en este proyecto y la asignación de capítulos para traducir y revisar. Se consignan también los aportes hechos por la comunidad a través de Github.
-* En el archivo [estado de avance](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/distribucion-roles.md) se indica en qué fase del proceso va cada uno de los capítulos.
+* En el archivo [estado de avance](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/estado-avance.md) se indica en qué fase del proceso va cada uno de los capítulos.
 
 
 ## ¿Cómo participar?
