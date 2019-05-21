@@ -1,4 +1,4 @@
-# Proyecto de traducción colaborativa de R4DS
+# Proyecto de traducción colaborativa de "R para Ciencia de Datos"
 
 <a href="url"><img src="https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/R4DS-hex.png" align="right" width="30%"></a>
 
@@ -13,12 +13,13 @@ En todo momento se cautelará que este sea un ambiente libre de acoso y hostigam
 
 En este respositorio se encuentran los materiales con los lineamientos para el proceso de traducción y revisión:
 
-* En el archivo [orientaciones para la traducción](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-traduccion.md) se describen los aspectos para tener en cuenta a la hora de traducir el texto y el código utilizado en cada capítulo.
-* En el archivo [flujo de trabajo](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/flujo-trabajo.md) se señala la secuencia de acciones a seguir por parte de l*s participantes a lo largo del proceso de traducción y revisión de los capitulos.
-* En el archivo [distribución de roles](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/distribucion-roles.md) se explicitan las responsabilidades de las personas que participan en este proyecto y la asignación de capítulos para traducir y revisar.
-* En el archivo [orientaciones para la revisión](https://github.com/cienciadedatos/descripcion-y-orientaciones/blob/master/orientaciones-revision.md) se entregan recomendaciones sobre los aspectos en los que es necesario fijarse al momento de revisar una traducción y el tipo de lenguaje a utilizar para hacer recomendaciones.
+* En el archivo [orientaciones para la traducción](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md) se describen los aspectos para tener en cuenta a la hora de traducir el texto y el código utilizado en cada capítulo.
+* En el archivo [flujo de trabajo](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/flujo-trabajo.md) se señala la secuencia de acciones lo largo del proceso de traducción y revisión de los capítulos.
+* En el archivo [orientaciones para la revisión](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-revision.md) se entregan recomendaciones sobre los aspectos en los que es necesario fijarse al momento de revisar una traducción y el tipo de lenguaje a utilizar para hacer recomendaciones.
+* En el archivo [créditos y participación](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/creditos-participacion.md) se explicitan las responsabilidades de las personas que participan en este proyecto y la asignación de capítulos para traducir y revisar. Se consignan también los aportes hechos por la comunidad a través de Github.
+* En el archivo [estado de avance](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/estado-avance.md) se indica en qué fase del proceso va cada uno de los capítulos.
 
 
 ## ¿Cómo participar?
 
-Este es un proyecto abierto a la comunidad en el que todas las personas pueden participar siempre y cuando __adscriban nuestro código de conducta__. Si tienes interés en sumarte al equipo, revisa los documentos de este repositorio para conocer cómo estamos organizando el trabajo y luego contáctanos a través del [_issue_](https://github.com/cienciadedatos/descripcion-y-orientaciones/issues/1) que hemos abierto para ese propósito.
+Este es un proyecto abierto a la comunidad en el que todas las personas pueden participar siempre y cuando __adscriban nuestro código de conducta__. Si tienes interés en sumarte al equipo, revisa los documentos de este repositorio para conocer cómo estamos organizando el trabajo y luego contáctanos a través del [_issue_](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/issues/1) que hemos abierto para ese propósito.

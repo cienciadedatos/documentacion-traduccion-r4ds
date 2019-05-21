@@ -74,12 +74,14 @@ Pese a que hay términos que traduciremos al español, es importante que quien t
 | facet | separar facetas |
 | input | input (la palabra existe como anglicismo en español, no se traduce) |
 | intercept | intercepto (u ordenada al origen) |
+| key | clave |
 | legend | leyenda |
 | list-columns | columnas-lista |
 | log-transformation | transformación logarítmica |
 | mapping | mapear |
 | match | coincidencia |
-| missing values | valores perdidos |
+| missing values | valores faltantes |
+| modelling | modelado |
 | named list | lista nombrada |
 | partial matching | coincidencia parcial |
 | parse | segmentar o analizar (depende del contexto) |
