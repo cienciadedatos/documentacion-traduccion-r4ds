@@ -8,19 +8,19 @@
 |4 Workflow: basics | lista | lista |lista| |
 |5 Data transformation| lista | lista |lista| |
 |6 Workflow: scripts | lista |lista| | |
-|7 Exploratory Data Analysis | lista | falta incorporar sugerencias revisora 2 | | |
-|8 Workflow: Projects | lista | falta incorporar sugerencias revisor 2 | | |
+|7 Exploratory Data Analysis | lista | pendiente incorporar sugerencias | | |
+|8 Workflow: Projects | lista | pendiente incorporar sugerencias | | |
 |9 Wrangle: Introduction | lista | lista |lista| |
 |10 Tibbles | lista | lista |lista| |
 |11 Data Import | lista | lista |||
 |12 Tidy Data | lista | lista |lista||
 |13 Relational Data with dplyr | pendiente || ||
 |14 Strings | lista ||lista||
-|15 Factors | lista | lista |lista (pero hay que volver a revisarlo para resolver problema con `fct_lump()`) ||
+|15 Factors | lista | lista |lista ||
 |16 Date and times|lista| lista |lista||
 |17 Program: introduction |lista | lista|lista||
-|18 Pipes | lista | pendiente incorporar sugerencias (¡pero aparece publicado!) |||
-|19 Functions | lista | pendiente incorporar sugerencias (¡pero aparece publicado!) |||
+|18 Pipes | lista | pendiente incorporar sugerencias|||
+|19 Functions | lista | pendiente incorporar sugerencias |||
 |20 Vectors |lista | lista |lista||
 |21 Iteration |pendiente || ||
 |22 Model: introduction |lista | lista |lista||
