@@ -1,18 +1,18 @@
 # Estado de avance
 
 | capítulo | archivo | estado traducción | _pull request_ | revisión traducción| revisión código | edición final
-|:---------|:-------------------|:------------------------|:-----------------|:----------------|:-----------|:--------|:-------------|
+|---------|-------------------|------------------------|-----------------|----------------|-----------|--------|-------------|
 | Introduction | 01-intro.Rmd | lista |[#80](https://github.com/cienciadedatos/r4ds/pull/80)| lista |lista| |
 | Explore: introduction | 02-explore.Rmd | lista || ¡se hizo _merge_ sin revisar! |lista| |
 | Data visualisation | 03-visualize.Rmd | lista |[#24](https://github.com/cienciadedatos/r4ds/pull/24)| lista |lista| |
 | Workflow: basics | 04-workflow-basics.Rmd | lista |[#32](https://github.com/cienciadedatos/r4ds/pull/32)| lista |lista| |
 | Data transformation| 05-transform.Rmd |lista |[#7](https://github.com/cienciadedatos/r4ds/pull/7)| lista |lista| |
-| Workflow: scripts | 06-workflow-scripts.Rmd |lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista / esperando _merge_| | |
+| Workflow: scripts | 06-workflow-scripts.Rmd |lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista| | |
 | Exploratory Data Analysis | 07-EDA.Rmd | lista | [#44](https://github.com/cienciadedatos/r4ds/pull/44) | falta incorporar sugerencias revisora 2 | | |
 | Workflow: Projects | 08-workflow-projects.Rmd | lista |[#6](https://github.com/cienciadedatos/r4ds/pull/6)| falta incorporar sugerencias revisor 2 | | |
 | Wrangle: Introduction | 09-wrangle.Rmd |lista |[#28](https://github.com/cienciadedatos/r4ds/pull/28)| lista |lista| |
 | Tibbles | 10-tibble.Rmd|lista| [#13](https://github.com/cienciadedatos/r4ds/pull/13) | lista |lista| |
-| Data Import | 11-import.Rmd|lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista / esperando _merge_ |||
+| Data Import | 11-import.Rmd|lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista |||
 | Tidy Data | 12-tidy.Rmd |lista |[#70](https://github.com/cienciadedatos/r4ds/pull/70)| lista |lista||
 | Relational 13-Data with dplyr | relational-data.Rmd | pendiente || |||
 | Strings | 14-strings.Rmd |lista |pendiente||lista||
@@ -31,4 +31,4 @@
 | R Markdown| 27-rmarkdown.Rmd |lista |[#41](https://github.com/cienciadedatos/r4ds/pull/41)|lista |antes de revisarlo hay que traducir los `.Rmd` con los ejemplos||
 | Graphics for communication | 28-communicate-plots.Rmd | lista |[#24](https://github.com/cienciadedatos/r4ds/pull/24)| lista |lista||
 | R Markdown formats| 29-rmarkdown-formats.Rmd | lista |[#35](https://github.com/cienciadedatos/r4ds/pull/35)| pendiente incorporar sugerencias|||
-| R Markdown workflow | 30-rmarkdown-workflow.Rmd | lista |[#41](https://github.com/cienciadedatos/r4ds/pull/41) y [#78](https://github.com/cienciadedatos/r4ds/pull/78)|lista|lista|||
+| R Markdown workflow | 30-rmarkdown-workflow.Rmd | lista |[#41](https://github.com/cienciadedatos/r4ds/pull/41) y [#78](https://github.com/cienciadedatos/r4ds/pull/78)|lista|lista|
