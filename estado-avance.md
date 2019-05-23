@@ -1,34 +1,71 @@
 # Estado de avance
 
-| capítulo | archivo | estado traducción | _pull request_ | revisión traducción| revisión código | edición final
-|:---------|:-------------------|:------------------------|:-----------------|:----------------|:-----------|:--------|:-------------|
-| Introduction | 01-intro.Rmd | lista |[#80](https://github.com/cienciadedatos/r4ds/pull/80)| lista |lista| |
-| Explore: introduction | 02-explore.Rmd | lista || ¡se hizo _merge_ sin revisar! |lista| |
-| Data visualisation | 03-visualize.Rmd | lista |[#24](https://github.com/cienciadedatos/r4ds/pull/24)| lista |lista| |
-| Workflow: basics | 04-workflow-basics.Rmd | lista |[#32](https://github.com/cienciadedatos/r4ds/pull/32)| lista |lista| |
-| Data transformation| 05-transform.Rmd |lista |[#7](https://github.com/cienciadedatos/r4ds/pull/7)| lista |lista| |
-| Workflow: scripts | 06-workflow-scripts.Rmd |lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista / esperando _merge_| | |
-| Exploratory Data Analysis | 07-EDA.Rmd | lista | [#44](https://github.com/cienciadedatos/r4ds/pull/44) | falta incorporar sugerencias revisora 2 | | |
-| Workflow: Projects | 08-workflow-projects.Rmd | lista |[#6](https://github.com/cienciadedatos/r4ds/pull/6)| falta incorporar sugerencias revisor 2 | | |
-| Wrangle: Introduction | 09-wrangle.Rmd |lista |[#28](https://github.com/cienciadedatos/r4ds/pull/28)| lista |lista| |
-| Tibbles | 10-tibble.Rmd|lista| [#13](https://github.com/cienciadedatos/r4ds/pull/13) | lista |lista| |
-| Data Import | 11-import.Rmd|lista |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)| lista / esperando _merge_ |||
-| Tidy Data | 12-tidy.Rmd |lista |[#70](https://github.com/cienciadedatos/r4ds/pull/70)| lista |lista||
-| Relational 13-Data with dplyr | relational-data.Rmd | pendiente || |||
-| Strings | 14-strings.Rmd |lista |pendiente||lista||
-| Factors | 15-factors.Rmd |lista |[#2](https://github.com/cienciadedatos/r4ds/pull/2)| lista |lista (pero hay que volver a revisarlo para resolver problema con `fct_lump()`) ||
-| Date and times| 16-datetimes.Rmd |lista |[#2](https://github.com/cienciadedatos/r4ds/pull/2)| lista |lista||
-| Program: introduction | 17-program.Rmd |lista |[#40](https://github.com/cienciadedatos/r4ds/pull/40)| lista|lista||
-| Pipes | 18-pipes.Rmd |lista |[#39](https://github.com/cienciadedatos/r4ds/pull/39)| pendiente incorporar sugerencias (¡pero aparece publicado!) |||
-| Functions | 19-functions.Rmd | lista |[#39](https://github.com/cienciadedatos/r4ds/pull/39)| pendiente incorporar sugerencias (¡pero aparece publicado!) |||
-| Vectors | 20-vectors.Rmd |lista |[#43](https://github.com/cienciadedatos/r4ds/pull/43)| lista |lista||
-| Iteration | 21-iteration.Rmd |pendiente || |||
-| Model: introduction | 22-model.Rmd |lista |[#5](https://github.com/cienciadedatos/r4ds/pull/5)| lista |lista||
-| Model basics | 23-model-basics.Rmd | lista |[#74](https://github.com/cienciadedatos/r4ds/pull/74)| lista |lista||
-| Model building| 24-model-building.Rmd |lista |[#31](https://github.com/cienciadedatos/r4ds/pull/31)| pendiente incorporar sugerencias |||
-| Many models | 25-model-many.Rmd|lista |[#10](https://github.com/cienciadedatos/r4ds/pull/10)| lista |lista||
-| Communicate: introduction | 26-communicate.Rmd | lista |[#27](https://github.com/cienciadedatos/r4ds/pull/27)| lista |lista||
-| R Markdown| 27-rmarkdown.Rmd |lista |[#41](https://github.com/cienciadedatos/r4ds/pull/41)|lista |antes de revisarlo hay que traducir los `.Rmd` con los ejemplos||
-| Graphics for communication | 28-communicate-plots.Rmd | lista |[#24](https://github.com/cienciadedatos/r4ds/pull/24)| lista |lista||
-| R Markdown formats| 29-rmarkdown-formats.Rmd | lista |[#35](https://github.com/cienciadedatos/r4ds/pull/35)| pendiente incorporar sugerencias|||
-| R Markdown workflow | 30-rmarkdown-workflow.Rmd | lista |[#41](https://github.com/cienciadedatos/r4ds/pull/41) y [#78](https://github.com/cienciadedatos/r4ds/pull/78)|lista|lista|||
+### Avance por capítulo
+
+| capítulo | traducción | revisión | cambios post-revisión | chequeo código | edición texto
+|----|----|----|----|----|----|
+| 1 Introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 2 Explore: introduction |:heavy_check_mark:|:white_circle:|:white_circle:|:heavy_check_mark:|
+| 3 Data visualisation |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 4 Workflow: basics |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 5 Data transformation|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 6 Workflow: scripts |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+| 7 Exploratory Data Analysis |:heavy_check_mark:|:heavy_check_mark:| pendientes |||
+| 8 Workflow: Projects |:heavy_check_mark:|:heavy_check_mark:|pendientes
+| 9 Wrangle: Introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 10 Tibbles |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 11 Data Import |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 12 Tidy Data |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
+| 13 Relational Data with dplyr |
+| 14 Strings |:heavy_check_mark:|||:heavy_check_mark:
+| 15 Factors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 16 Date and times|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 17 Program: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 18 Pipes |:heavy_check_mark:|:heavy_check_mark:| pendientes ||
+| 19 Functions |:heavy_check_mark:|:heavy_check_mark:| pendientes |
+| 20 Vectors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 21 Iteration |
+| 22 Model: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 23 Model basics |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 24 Model building|:heavy_check_mark:|:heavy_check_mark:|pendientes|:heavy_check_mark:
+| 25 Many models |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 26 Communicate: introduction|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 27 R Markdown |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 28 Graphics for communication | :heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+| 29 R Markdown formats |:heavy_check_mark:|:heavy_check_mark:| pendientes
+| 30 R Markdown workflow |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+
+### _Pull requests_
+
+| capítulo | PR traducción - revisión | PR arreglos código
+|----|----|----|
+| 1 Introduction |[#80](https://github.com/cienciadedatos/r4ds/pull/80)|
+| 2 Explore: introduction ||
+| 3 Data visualisation |[#24](https://github.com/cienciadedatos/r4ds/pull/24)| [#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 4 Workflow: basics | [#32](https://github.com/cienciadedatos/r4ds/pull/32)|
+| 5 Data transformation|[#7](https://github.com/cienciadedatos/r4ds/pull/7)| [#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 6 Workflow: scripts |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)|
+| 7 Exploratory Data Analysis |[#44](https://github.com/cienciadedatos/r4ds/pull/44) |
+| 8 Workflow: Projects |[#6](https://github.com/cienciadedatos/r4ds/pull/6)|
+| 9 Wrangle: Introduction |[#28](https://github.com/cienciadedatos/r4ds/pull/28)|
+| 10 Tibbles |[#13](https://github.com/cienciadedatos/r4ds/pull/13)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 11 Data Import |[#33](https://github.com/cienciadedatos/r4ds/pull/33) y [#82](https://github.com/cienciadedatos/r4ds/pull/82)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 12 Tidy Data |[#70](https://github.com/cienciadedatos/r4ds/pull/70)|
+| 13 Relational Data with dplyr ||
+| 14 Strings ||
+| 15 Factors |[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 16 Date and times|[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 17 Program: introduction |[#40](https://github.com/cienciadedatos/r4ds/pull/40)|
+| 18 Pipes | [#39](https://github.com/cienciadedatos/r4ds/pull/39)|
+| 19 Functions |[#39](https://github.com/cienciadedatos/r4ds/pull/39)|
+| 20 Vectors|[#43](https://github.com/cienciadedatos/r4ds/pull/43)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 21 Iteration |
+| 22 Model: introduction|[#5](https://github.com/cienciadedatos/r4ds/pull/5)|
+| 23 Model basics |[#74](https://github.com/cienciadedatos/r4ds/pull/74)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 24 Model building|[#31](https://github.com/cienciadedatos/r4ds/pull/31)|
+| 25 Many models |[#10](https://github.com/cienciadedatos/r4ds/pull/10)|
+| 26 Communicate: introduction|[#27](https://github.com/cienciadedatos/r4ds/pull/27)|
+| 27 R Markdown|[#41](https://github.com/cienciadedatos/r4ds/pull/41)|[#84](https://github.com/cienciadedatos/r4ds/pull/84) y [#85](https://github.com/cienciadedatos/r4ds/pull/85)|
+| 28 Graphics for communication |[#24](https://github.com/cienciadedatos/r4ds/pull/24)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
+| 29 R Markdown formats|[#35](https://github.com/cienciadedatos/r4ds/pull/35)|
+| 30 R Markdown workflow |[#41](https://github.com/cienciadedatos/r4ds/pull/41) y [#78](https://github.com/cienciadedatos/r4ds/pull/78)
