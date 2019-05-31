@@ -56,7 +56,7 @@
 | 15 Factors |[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 16 Date and times|[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 17 Program: introduction |[#40](https://github.com/cienciadedatos/r4ds/pull/40)|
-| 18 Pipes | [#39](https://github.com/cienciadedatos/r4ds/pull/39)|
+| 18 Pipes | [#39](https://github.com/cienciadedatos/r4ds/pull/39) y [#86](https://github.com/cienciadedatos/r4ds/pull/86)|
 | 19 Functions |[#39](https://github.com/cienciadedatos/r4ds/pull/39)|
 | 20 Vectors|[#43](https://github.com/cienciadedatos/r4ds/pull/43)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 21 Iteration |
