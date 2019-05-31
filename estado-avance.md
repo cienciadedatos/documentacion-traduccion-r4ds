@@ -21,8 +21,8 @@
 | 15 Factors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 16 Date and times|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 17 Program: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
-| 18 Pipes |:heavy_check_mark:|:heavy_check_mark:| pendientes ||
-| 19 Functions |:heavy_check_mark:|:heavy_check_mark:| pendientes |
+| 18 Pipes |:heavy_check_mark:|:heavy_check_mark:| :heavy_check_mark:||
+| 19 Functions |:heavy_check_mark:|pendiente|  |
 | 20 Vectors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 | 21 Iteration |
 | 22 Model: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
