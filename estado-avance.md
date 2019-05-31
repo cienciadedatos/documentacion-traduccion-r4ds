@@ -21,8 +21,8 @@
 | 15 Factors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 16 Date and times|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 17 Program: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
-| 18 Pipes |:heavy_check_mark:|:heavy_check_mark:| pendientes ||
-| 19 Functions |:heavy_check_mark:|:heavy_check_mark:| pendientes |
+| 18 Pipes |:heavy_check_mark:|:heavy_check_mark:| :heavy_check_mark:||
+| 19 Functions |:heavy_check_mark:|pendiente|  |
 | 20 Vectors |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 | 21 Iteration |
 | 22 Model: introduction |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
@@ -56,7 +56,7 @@
 | 15 Factors |[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 16 Date and times|[#2](https://github.com/cienciadedatos/r4ds/pull/2)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 17 Program: introduction |[#40](https://github.com/cienciadedatos/r4ds/pull/40)|
-| 18 Pipes | [#39](https://github.com/cienciadedatos/r4ds/pull/39)|
+| 18 Pipes | [#39](https://github.com/cienciadedatos/r4ds/pull/39) y [#86](https://github.com/cienciadedatos/r4ds/pull/86)|
 | 19 Functions |[#39](https://github.com/cienciadedatos/r4ds/pull/39)|
 | 20 Vectors|[#43](https://github.com/cienciadedatos/r4ds/pull/43)|[#84](https://github.com/cienciadedatos/r4ds/pull/84)|
 | 21 Iteration |
